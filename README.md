@@ -1,2 +1,2 @@
 # private-school-lists
-Console application that accepts user inputs and produces various lists. Built With Eclipse IDE.
+Console application that accepts user inputs and stores values into MySql DB. Built With Eclipse IDE.
